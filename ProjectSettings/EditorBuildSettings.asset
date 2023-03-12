@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 183eb7d90b702ff4baef671c8986c505
+  - enabled: 1
+    path: Assets/Scenes/Lesson Menu.unity
+    guid: 1eda7a616d3b35943b673f8fb9837057
+  - enabled: 1
+    path: Assets/Scenes/Lforms&Wforms.unity
+    guid: 64b98d4767e82d84285212b97c2becba
+  - enabled: 1
+    path: Assets/Scenes/Planets.unity
+    guid: d0a6248fb3c631947996a23f6a3d1732
+  - enabled: 1
+    path: Assets/Scenes/Constellations.unity
+    guid: 9b1cbbb0e039a9d41bf22e448d930784
+  - enabled: 1
+    path: Assets/Scenes/ChallengeMenu.unity
+    guid: ed7499d91dade5441833b2a175ebaff1
+  - enabled: 1
+    path: Assets/Scenes/Easy.unity
+    guid: 37a0ee68f77288c48aa42fa91d10ffd2
+  - enabled: 1
+    path: Assets/Scenes/Medium.unity
+    guid: c996ca4b9e016814eba603ec021faa90
+  - enabled: 1
+    path: Assets/Scenes/Hard.unity
+    guid: 156ef6f7f5c57704ba1f0917e3c9004f
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: ecb0ba5a346194a4dac7047111269de5
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 36f09d180f3971d4586e54225a624fc9
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 918376d10f55eec4e882427bf08e4fc6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 29e493552db48c449ab372d39c943799, type: 2}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Aquarius" size="6.000000 3.373353" />
+    <ImageTarget name="Virgo" size="6.000000 3.373353" />
+    <ImageTarget name="Taurus" size="6.000000 3.373353" />
+    <ImageTarget name="Scorpio" size="6.000000 3.373353" />
+    <ImageTarget name="Saggitarius" size="6.000000 3.373353" />
+    <ImageTarget name="Pisces" size="6.000000 3.373353" />
+    <ImageTarget name="Libra" size="6.000000 3.373353" />
+    <ImageTarget name="Leo" size="6.000000 3.373353" />
+    <ImageTarget name="Gemini" size="6.000000 3.373353" />
+    <ImageTarget name="Capricorn" size="6.000000 3.373353" />
+    <ImageTarget name="Cancer" size="6.000000 3.373353" />
+    <ImageTarget name="Aries" size="6.000000 3.373353" />
+    <ImageTarget name="Neptune" size="6.000000 4.000333" />
+    <ImageTarget name="Uranus" size="6.000000 4.000333" />
+    <ImageTarget name="Saturn" size="6.000000 4.000333" />
+    <ImageTarget name="Jupiter" size="6.000000 4.000333" />
+    <ImageTarget name="Mars" size="6.000000 4.000333" />
+    <ImageTarget name="Earth" size="6.000000 4.000333" />
+    <ImageTarget name="Venus" size="6.000000 4.000333" />
+    <ImageTarget name="Mercury" size="6.000000 4.000333" />
+    <ImageTarget name="Waterfall" size="6.000000 4.002000" />
+    <ImageTarget name="Ocean" size="6.000000 3.378000" />
+    <ImageTarget name="Sea" size="6.000000 4.002000" />
+    <ImageTarget name="River" size="6.000000 4.000000" />
+    <ImageTarget name="Lake" size="6.000000 3.375000" />
+    <ImageTarget name="Plateau" size="6.000000 3.148148" />
+    <ImageTarget name="Plain" size="6.000000 4.164000" />
+    <ImageTarget name="Valley" size="6.000000 4.820735" />
+    <ImageTarget name="Hills" size="6.000000 3.351955" />
+    <ImageTarget name="Island" size="6.000000 4.000000" />
+    <ImageTarget name="Volcano" size="6.000000 3.030303" />
+    <ImageTarget name="MountainMarker" size="6.000000 3.375000" />
+  </Tracking>
+</QCARConfig>
